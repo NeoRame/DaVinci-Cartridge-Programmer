@@ -29,3 +29,6 @@ Release Notes for v2.0 , updated July 2018 by NeoRame:
 -----------------------------------------------------------------------
 Support Original Cartridges and 3rd Party Filament (use an old Eeprom in the Programmer Case for this)
 Distributed under the terms of the GPL.
+
+DCP in Action:
+https://www.youtube.com/watch?v=epnbQrqbCuA&t=70s
