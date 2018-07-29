@@ -29,9 +29,3 @@ Release Notes for v2.0 , updated July 2018 by NeoRame:
 -----------------------------------------------------------------------
 Support Original Cartridges and 3rd Party Filament (use an old Eeprom in the Programmer Case for this)
 Distributed under the terms of the GPL.
-             
-Holtek HT1632 LED driver chip code:
-As implemented on the Sure Electronics DE-DP016 display board (16*24 dot matrix LED module.)
-Nov, 2008 by Bill Westfield ("WestfW")
-Copyrighted and distributed under the terms of the Berkely license (copy freely, but include this notice of original author.)
-
